@@ -1,0 +1,10 @@
+root@DESKTOP-RN7E17H:/mnt/c/Users/HP/Desktop/bezp6# openssl ocsp -issuer intermediate.pem -cert cert01 -url http://GEANT.crt.sectigo.com/GEANTOVRSACA4.crt
+Error querying OCSP responder
+40C7AFAB017F0000:error:1E800069
+routines:parse_http_line1
+error:../crypto/http/http_client.c:440
+=405, reason=Method Not Allowed
+40C7AFAB017F0000:error:1E800067
+routines:OSSL_HTTP_REQ_CTX_exchange
+receiving:../crypto/http/http_client.c:874
+=http://GEANT.crt.sectigo.com:80

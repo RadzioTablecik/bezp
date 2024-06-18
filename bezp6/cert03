@@ -1,0 +1,144 @@
+-----BEGIN CERTIFICATE-----
+MIIFgTCCBGmgAwIBAgIQOXJEOvkit1HX02wQ3TE1lTANBgkqhkiG9w0BAQwFADB7
+MQswCQYDVQQGEwJHQjEbMBkGA1UECAwSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYD
+VQQHDAdTYWxmb3JkMRowGAYDVQQKDBFDb21vZG8gQ0EgTGltaXRlZDEhMB8GA1UE
+AwwYQUFBIENlcnRpZmljYXRlIFNlcnZpY2VzMB4XDTE5MDMxMjAwMDAwMFoXDTI4
+MTIzMTIzNTk1OVowgYgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpOZXcgSmVyc2V5
+MRQwEgYDVQQHEwtKZXJzZXkgQ2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBO
+ZXR3b3JrMS4wLAYDVQQDEyVVU0VSVHJ1c3QgUlNBIENlcnRpZmljYXRpb24gQXV0
+aG9yaXR5MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAgBJlFzYOw9sI
+s9CsVw127c0n00ytUINh4qogTQktZAnczomfzD2p7PbPwdzx07HWezcoEStH2jnG
+vDoZtF+mvX2do2NCtnbyqTsrkfjib9DsFiCQCT7i6HTJGLSR1GJk23+jBvGIGGqQ
+Ijy8/hPwhxR79uQfjtTkUcYRZ0YIUcuGFFQ/vDP+fmyc/xadGL1RjjWmp2bIcmfb
+IWax1Jt4A8BQOujM8Ny8nkz+rwWWNR9XWrf/zvk9tyy29lTdyOcSOk2uTIq3XJq0
+tyA9yn8iNK5+O2hmAUTnAU5GU5szYPeUvlM3kHND8zLDU+/bqv50TmnHa4xgk97E
+xwzf4TKuzJM7UXiVZ4vuPVb+DNBpDxsP8yUmazNt925H+nND5X4OpWaxKXwyhGNV
+icQNwZNUMBkTrNN9N6frXTpsNVzbQdcS2qlJC9/YgIoJk2KOtWbPJYjNhLixP6Q5
+D9kCnusSTJV882sFqV4Wg8y4Z+LoE53MW4LTTLPtW//e5XOsIzstAL81VXQJSdhJ
+WBp/kjbmUZIO8yZ9HE0XvMnsQybQv0FfQKlERPSZ51eHnlAfV1SoPv10Yy+xUGUJ
+5lhCLkMaTLTwJUdZ+gQek9QmRkpQgbLevni3/GcV4clXhB4PY9bpYrrWX1Uu6lzG
+KAgEJTm4Diup8kyXHAc/DVL17e8vgg8CAwEAAaOB8jCB7zAfBgNVHSMEGDAWgBSg
+EQojPpbxB+zirynvgqV/0DCktDAdBgNVHQ4EFgQUU3m/WqorSs9UgOHYm8Cd8rID
+ZsswDgYDVR0PAQH/BAQDAgGGMA8GA1UdEwEB/wQFMAMBAf8wEQYDVR0gBAowCDAG
+BgRVHSAAMEMGA1UdHwQ8MDowOKA2oDSGMmh0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L0FBQUNlcnRpZmljYXRlU2VydmljZXMuY3JsMDQGCCsGAQUFBwEBBCgwJjAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMA0GCSqGSIb3DQEBDAUA
+A4IBAQAYh1HcdCE9nIrgJ7cz0C7M7PDmy14R3iJvm3WOnnL+5Nb+qh+cli3vA0p+
+rvSNb3I8QzvAP+u431yqqcau8vzY7qN7Q/aGNnwU4M309z/+3ri0ivCRlv79Q2R+
+/czSAaF9ffgZGclCKxO/WIu6pKJmBHaIkU4MiRTOok3JMrO66BQavHHxW/BBC5gA
+CiIDEOUMsfnNkjcZ7Tvx5Dq2+UUTJnWvu6rvP3t3O9LEApE9GQDTF1w52z97GA1F
+zZOFli9d31kWTz9RvdVFGD/tSo7oBmF0Ixa1DVBzJ0RHfxBdiSprhTEUxOipakyA
+vGp4z7h/jnZymQyd/teRCBaho1+V
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=C = PL, ST = Dolno\C5\9Bl\C4\85skie, O = Politechnika Wroc\C5\82awska, CN = *.pwr.edu.pl
+issuer=C = NL, O = GEANT Vereniging, CN = GEANT OV RSA CA 4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 6151 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Tue, 18 Jun 2024 13:18:41 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+Access-Control-Allow-Headers: origin, x-requested-with, content-type
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: master-only
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: E169019F3DA3ADDBC3247FC2204C252F6B67CA582CD960D63E4A5760D9953422
+    Session-ID-ctx: 
+    Resumption PSK: 3130395156F1012D62E8901FAB10918E778C46F93DA1C2561113C2B3358B697FB30E67F2A44EB0FEB4DE96CCDCBDFB77
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1f 90 d3 20 ad 56 b9 c3-0b a9 3b e6 b4 1e 37 be   ... .V....;...7.
+    0010 - 23 36 09 53 bc 14 97 01-1f 82 3d 8c 8b 2d 7e f9   #6.S......=..-~.
+    0020 - ac f5 9a af df 02 a9 d8-78 8d 03 43 0b f3 33 3a   ........x..C..3:
+    0030 - 5d fc ca ee d0 9a 27 86-04 05 95 1b d1 b8 3e 7d   ].....'.......>}
+    0040 - 5d 3c 2e 81 42 59 6b 7f-1b 62 3f e9 21 39 b0 e8   ]<..BYk..b?.!9..
+    0050 - c6 a7 ab 9e 8c b4 49 cb-0f ae 83 a6 f5 32 c7 3a   ......I......2.:
+    0060 - b9 cc 52 54 c0 f1 ce 20-9b 0b e9 5a da a2 eb 78   ..RT... ...Z...x
+    0070 - 95 b6 01 17 15 f1 f5 0b-a3 47 4e a9 66 eb a0 f3   .........GN.f...
+    0080 - ee 10 ae a2 c6 70 dd 9c-19 60 ea 0f 11 8d 86 5b   .....p...`.....[
+    0090 - 60 27 ca 4b 23 88 e8 19-f8 e9 2c f2 ab 77 ca 87   `'.K#.....,..w..
+    00a0 - 15 4a d1 3c ed 77 0f 1c-71 ac a1 b5 1c 56 5f 9f   .J.<.w..q....V_.
+    00b0 - af 4f 39 1b 5c f9 e2 70-7b 06 1d c7 be 21 43 cf   .O9.\..p{....!C.
+    00c0 - be 6b 34 99 05 c0 07 e7-81 c2 ba 84 b1 47 f9 f6   .k4..........G..
+    00d0 - d2 3a 92 82 97 22 ad 5e-55 98 a3 54 ef 99 aa 03   .:...".^U..T....
+
+    Start Time: 1718716709
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 9ECF4D1ED92E7C80B0776074F2B676828CD254472CDA0EADB69FDB0A2B7D3B90
+    Session-ID-ctx: 
+    Resumption PSK: 0C7CA9C7F27B3AE04D6C17B4FE35C999BAE78ECB6448C1EFDF6B20ECBF3F10DBEE174895E781DE15C15AA7E97A87E97B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1f 90 d3 20 ad 56 b9 c3-0b a9 3b e6 b4 1e 37 be   ... .V....;...7.
+    0010 - 81 c7 39 5b 45 2d 1e 85-b1 35 70 3e a3 ae 21 7f   ..9[E-...5p>..!.
+    0020 - c6 51 2d 18 5e 1a e6 f2-54 f5 24 b7 07 7c 38 0d   .Q-.^...T.$..|8.
+    0030 - 8b 1d cb 9f d4 79 ee 59-e5 05 58 06 c6 6c 07 61   .....y.Y..X..l.a
+    0040 - 03 95 b8 e0 cf b8 6a d3-ef 85 f8 3d 51 f5 f3 eb   ......j....=Q...
+    0050 - d5 ff dd 1c a6 bb f0 2f-bb 0e 52 8c 3a 96 15 65   ......./..R.:..e
+    0060 - b6 59 24 c3 ee db 81 22-9a fe 38 72 66 09 bf 68   .Y$...."..8rf..h
+    0070 - 10 aa 8e 89 0a 35 aa ad-5c 74 c5 8b 60 34 ed 57   .....5..\t..`4.W
+    0080 - 30 fa 03 09 00 13 aa 51-b3 57 4a de d5 ae 9b 69   0......Q.WJ....i
+    0090 - c7 bd 32 65 79 48 0c 17-65 aa 78 9d 4f 13 eb 91   ..2eyH..e.x.O...
+    00a0 - e9 a4 d0 60 80 10 03 bf-88 27 02 4b be 63 01 74   ...`.....'.K.c.t
+    00b0 - c1 36 94 17 13 6d 02 e3-87 95 de db 9d d0 e7 66   .6...m.........f
+    00c0 - b7 c2 02 ab 8d 04 49 35-8d f5 d1 68 44 33 7d 7f   ......I5...hD3}.
+    00d0 - 8c 82 c0 f6 05 25 ea ad-c3 71 80 30 d0 22 c8 31   .....%...q.0.".1
+
+    Start Time: 1718716709
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

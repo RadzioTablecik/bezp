@@ -1,0 +1,14 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C = PL
+ST = Dolnośląskie
+L = Wrocław
+O = 244 Company
+OU = IT Department
+CN = vatidup1.com
+emailAddress = kpiech70@gmail.com

@@ -1,0 +1,7 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = PL, ST = Dolno\C5\9Bl\C4\85skie, O = Politechnika Wroc\C5\82awska, CN = *.pwr.edu.pl
+   i:C = NL, O = GEANT Vereniging, CN = GEANT OV RSA CA 4
+   a:PKEY: rsaEncryption, 4096 (bit); sigalg: RSA-SHA384
+   v:NotBefore: Feb 18 00:00:00 2024 GMT; NotAfter: Feb 17 23:59:59 2025 GMT
